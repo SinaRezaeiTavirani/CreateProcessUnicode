@@ -24,7 +24,7 @@ void CaptureProcessOutput() {
     si.hStdError = hChildStdOutWr;
 
 
-    wchar_t command[] = L"/C powershell -Command Get-LocalUser";
+    wchar_t command[] = L"/C dir .";
 
     if (!CreateProcessW(
         L"C:\\Windows\\system32\\cmd.exe",
