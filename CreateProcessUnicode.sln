@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreateProcessUnicode", "CreateProcessUnicode\CreateProcessUnicode.vcxproj", "{C74D2880-A230-4E9F-86AC-C4CC33C2F11C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74D2880-A230-4E9F-86AC-C4CC33C2F11C}.Debug|x64.ActiveCfg = Debug|x64
+		{C74D2880-A230-4E9F-86AC-C4CC33C2F11C}.Debug|x64.Build.0 = Debug|x64
+		{C74D2880-A230-4E9F-86AC-C4CC33C2F11C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C74D2880-A230-4E9F-86AC-C4CC33C2F11C}.Debug|x86.Build.0 = Debug|Win32
+		{C74D2880-A230-4E9F-86AC-C4CC33C2F11C}.Release|x64.ActiveCfg = Release|x64
+		{C74D2880-A230-4E9F-86AC-C4CC33C2F11C}.Release|x64.Build.0 = Release|x64
+		{C74D2880-A230-4E9F-86AC-C4CC33C2F11C}.Release|x86.ActiveCfg = Release|Win32
+		{C74D2880-A230-4E9F-86AC-C4CC33C2F11C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60C94EF5-1404-4938-A09B-3BD22233E17F}
+	EndGlobalSection
+EndGlobal
